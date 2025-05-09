@@ -42,7 +42,7 @@ Clone the repository:
   23 → Admission year (used to calculate current year)
   735 → Branch code (e.g., 735 = ECE)
 
-# Access Control
+## Access Control
     
-  Admin: Can add/view all students and enter CGPA.
-  Students: Can only view their own details using roll number.
+  - Admin: Can add/view all students and enter CGPA.
+  - Students: Can only view their own details using roll number.
