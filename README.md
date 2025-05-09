@@ -33,6 +33,7 @@ Clone the repository:
    ```bash
    git clone https://github.com/KEERTHI130705/Student-Management-System.git
    cd student-management-system
+   python main_script.py
    ```
 
 ## Roll Number Format
