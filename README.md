@@ -1,4 +1,4 @@
-# 🏫 Student Management System (Python Console App)
+# Student Management System (Python Console App)
 
 This is a simple **Student Management System** built in Python for managing student data in a college setting. It simulates real-world roles: an **Admin** who adds and manages student data, and **Students** who can view their own details.
 
