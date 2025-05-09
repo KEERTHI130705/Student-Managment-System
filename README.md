@@ -38,8 +38,9 @@ Clone the repository:
 ## Roll Number Format
 
   Example: 100523735001
-  1005 → Valid college code
-  23 → Admission year (used to calculate current year)
+  <br>
+  1005 → Valid college code <br>
+  23 → Admission year (used to calculate current year) <br>
   735 → Branch code (e.g., 735 = ECE)
 
 ## Access Control
