@@ -6,14 +6,14 @@ This is a simple **Student Management System** built in Python for managing stud
 
 ## Features
 
-- 👩‍💼 **Admin Portal**:
+- **Admin Portal**:
   - Add student with name and roll number
   - Enter student's CGPA
   - View all student details
-- 🎓 **Student Portal**:
+-  **Student Portal**:
   - Login using roll number
   - View name, branch, year, and CGPA (if entered)
-- 🧠 **Auto detection** of:
+-  **Auto detection** of:
   - **Year** (based on roll number)
   - **Branch** (based on roll number codes)
 
